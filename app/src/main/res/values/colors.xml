@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="colorLightPrimaryColor">#FFCCBC</color>
+    <color name="colorTextPrimaryColor">#FFFFFF</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="colorRojizo">#DF4F4F</color>
+    <color name="colorRojizoOscuro">#881515</color>
+</resources>

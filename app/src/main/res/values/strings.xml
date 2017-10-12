@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PetagramBaseDatos</string>
+    <string name="titulo_perfil">Perfil de Mascota</string>
+    <string name="titulo_app">Petagram</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_favorito">Favoritos</string>
+    <string name="contact_nombre">Nombre</string>
+    <string name="contact_correo">Correo</string>
+    <string name="contact_mensaje">Mensaje</string>
+    <string name="enviar_comentario">Enviar Comentario</string>
+    <string name="titulo_contacto">Contacto</string>
+    <string name="titulo_perfil_nombre">Keyla</string>
+    <string name="usuario">Email Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="autenticacion">Autenticación Gmail</string>
+    <string name="desarrollador">Jorge Soasti</string>
+    <string name="bio1">Edad: 27 años</string>
+    <string name="bio2">Ingeniero en Electrónica y Redes de Información</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
